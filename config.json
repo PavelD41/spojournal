@@ -10,7 +10,7 @@
       "sections": [
         "day"
       ],
-      "enabled": true,
+      "enabled": false,
       "until": ""
     }
   ]

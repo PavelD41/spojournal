@@ -1,4 +1,14 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-24"
+  "updatedAt": "2026-10-24",
+  "posts": [
+    {
+      "id": "post-mvmpve59-625",
+      "title": "тест",
+      "body": "тест",
+      "date": "2026-10-24",
+      "pinned": false,
+      "author": ""
+    }
+  ]
 }

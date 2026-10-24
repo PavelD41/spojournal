@@ -1,17 +1,4 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-24",
-  "notices": [
-    {
-      "id": "notice-mvmqx7c0-102",
-      "title": "BETA",
-      "text": "Приложение находится на этапе бета тестирования, могут быть баги",
-      "level": "info",
-      "sections": [
-        "day"
-      ],
-      "enabled": false,
-      "until": ""
-    }
-  ]
+  "updatedAt": "2026-10-24"
 }

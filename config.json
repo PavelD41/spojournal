@@ -1,4 +1,17 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-24"
+  "updatedAt": "2026-10-24",
+  "notices": [
+    {
+      "id": "notice-mvmrz5ik-431",
+      "title": "Внимание",
+      "text": "расписание берется из журнала, а не из официального расписания ккэпа, не советуем на него опираться!",
+      "level": "warning",
+      "sections": [
+        "timetable"
+      ],
+      "enabled": true,
+      "until": ""
+    }
+  ]
 }

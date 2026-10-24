@@ -23,14 +23,5 @@
       "enabled": true,
       "until": ""
     }
-  ],
-  "broadcasts": [
-    {
-      "id": "msg-mvmtme3e-133",
-      "title": "test",
-      "body": "тест рассылка",
-      "publishedAt": "2026-10-24",
-      "notify": true
-    }
   ]
 }

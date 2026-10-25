@@ -23,14 +23,5 @@
       "enabled": true,
       "until": ""
     }
-  ],
-  "broadcasts": [
-    {
-      "id": "msg-mvnqgs3e-538",
-      "title": "Hello",
-      "body": "Welcome",
-      "publishedAt": "2026-10-25",
-      "notify": false
-    }
   ]
 }

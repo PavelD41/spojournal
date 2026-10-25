@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-24",
+  "updatedAt": "2026-10-25",
   "posts": [
     {
       "id": "post-mvmtkrdc-511",
@@ -22,6 +22,15 @@
       ],
       "enabled": true,
       "until": ""
+    }
+  ],
+  "broadcasts": [
+    {
+      "id": "msg-mvnqgs3e-538",
+      "title": "Hello",
+      "body": "Welcome",
+      "publishedAt": "2026-10-25",
+      "notify": false
     }
   ]
 }

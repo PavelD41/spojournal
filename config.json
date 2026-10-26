@@ -1,10 +1,10 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-25",
+  "updatedAt": "2026-10-26",
   "posts": [
     {
       "id": "post-mvmtkrdc-511",
-      "title": "v1.6",
+      "title": "v1.7",
       "body": "",
       "date": "2026-10-24",
       "pinned": true,

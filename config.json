@@ -1,0 +1,32 @@
+{
+  "schema": 1,
+  "updatedAt": "2026-10-27",
+  "posts": [
+    {
+      "id": "post-mvmtkrdc-511",
+      "title": "v1.9",
+      "body": "",
+      "date": "2026-10-24",
+      "pinned": true,
+      "author": ""
+    }
+  ],
+  "notices": [
+    {
+      "id": "notice-mvmrz5ik-431",
+      "title": "Внимание",
+      "text": "Расписание берется из журнала, а не из официального расписания ккэпа, не советуем на него👇 опираться!",
+      "level": "warning",
+      "sections": [
+        "timetable"
+      ],
+      "enabled": true,
+      "until": ""
+    }
+  ],
+  "appeals": {
+    "enabled": true,
+    "token": "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",
+    "contact": "@auyfu"
+  }
+}

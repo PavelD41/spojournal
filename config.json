@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-28",
+  "updatedAt": "2026-10-31",
   "posts": [
     {
       "id": "post-mvmtkrdc-511",
@@ -26,7 +26,8 @@
   ],
   "appeals": {
     "enabled": true,
-    "token": "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",
-    "contact": "@auyfu"
+    "email": "",
+    "telegram": "@auyfu",
+    "note": ""
   }
 }

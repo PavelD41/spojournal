@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-31",
+  "updatedAt": "2026-11-03",
   "posts": [
     {
       "id": "post-mvmtkrdc-511",
@@ -29,5 +29,8 @@
     "email": "",
     "telegram": "@",
     "note": ""
+  },
+  "registry": {
+    "url": "https://spo-registry.pd6030499.workers.dev"
   }
 }

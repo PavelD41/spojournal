@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-11-03",
+  "updatedAt": "2026-11-04",
   "posts": [
     {
       "id": "post-mvmtkrdc-511",
@@ -31,6 +31,6 @@
     "note": "хз почему тя забанило, не должно было, напиши на почту, разбаню"
   },
   "registry": {
-    "url": "https:\/\/spo-registry.pd6030499.workers.dev"
+    "url": "spo-registry.pd6030499.workers.dev"
   }
 }

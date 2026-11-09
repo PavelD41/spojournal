@@ -1,11 +1,11 @@
 {
   "schema": 1,
-  "updatedAt": "2026-11-08",
+  "updatedAt": "2026-11-09",
   "posts": [
     {
       "id": "post-mvmtkrdc-511",
       "title": "v1.16",
-      "body": "",
+      "body": "Last version of app",
       "date": "2026-10-24",
       "pinned": true,
       "author": ""

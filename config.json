@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-11-12",
+  "updatedAt": "2026-11-13",
   "posts": [
     {
       "id": "post-mvmtkrdc-511",
@@ -22,6 +22,15 @@
       ],
       "enabled": true,
       "until": ""
+    }
+  ],
+  "broadcasts": [
+    {
+      "id": "msg-mweytgh8-135",
+      "title": "Новая оценка: Физика",
+      "body": "проверьте в приложении",
+      "publishedAt": "2026-11-13",
+      "notify": true
     }
   ],
   "appeals": {

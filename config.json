@@ -24,15 +24,6 @@
       "until": ""
     }
   ],
-  "broadcasts": [
-    {
-      "id": "msg-mweytgh8-135",
-      "title": "Новая оценка: Физика",
-      "body": "проверьте в приложении",
-      "publishedAt": "2026-11-13",
-      "notify": true
-    }
-  ],
   "appeals": {
     "enabled": true,
     "email": "pd6030499@gmail.com",

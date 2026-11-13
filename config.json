@@ -24,6 +24,16 @@
       "until": ""
     }
   ],
+  "bans": [
+    {
+      "userId": "SPO-47AA9793E5",
+      "name": "Бураков Демид Владиславович",
+      "group": "149-Д9-1РЭС",
+      "reason": "",
+      "since": "2026-11-13",
+      "key": "ban-1794576286143"
+    }
+  ],
   "appeals": {
     "enabled": true,
     "email": "pd6030499@gmail.com",

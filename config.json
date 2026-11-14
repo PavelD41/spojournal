@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-11-13",
+  "updatedAt": "2026-11-14",
   "posts": [
     {
       "id": "post-mvmtkrdc-511",
@@ -8,14 +8,6 @@
       "body": "Last version of app",
       "date": "2026-10-24",
       "pinned": true,
-      "author": ""
-    },
-    {
-      "id": "post-mwf7o8mu-924",
-      "title": "Впн",
-      "body": "Сделал функцию для работы дневника с впн, она 90% не рабочая, но протестить можно",
-      "date": "2026-11-13",
-      "pinned": false,
       "author": ""
     }
   ],

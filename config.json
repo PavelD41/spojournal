@@ -1,57 +1,36 @@
 {
-    "schema":  1,
-    "updatedAt":  "2026-11-14",
-    "posts":  [
-                  {
-                      "id":  "post-mvmtkrdc-511",
-                      "title":  "v1.17",
-                      "body":  "Last version of app",
-                      "date":  "2026-10-24",
-                      "pinned":  true,
-                      "author":  ""
-                  },
-                  {
-                      "id":  "post-mwgbpp64-509",
-                      "title":  "Изменения на сервере спо",
-                      "body":  "Сетевой город стал работать только на российских сертификатах, в ближайшее время адаптируемся к этому",
-                      "date":  "2026-11-14",
-                      "pinned":  false,
-                      "author":  ""
-                  }
-              ],
-    "notices":  [
-                    {
-                        "id":  "notice-mvmrz5ik-431",
-                        "title":  "Внимание",
-                        "text":  "Расписание берется из журнала, а не из официального расписания ккэпа, не советуем на него👇 опираться!",
-                        "level":  "warning",
-                        "sections":  [
-                                         "timetable"
-                                     ],
-                        "enabled":  true,
-                        "until":  ""
-                    }
-                ],
-    "broadcasts":  [
-                       {
-                           "id":  "msg-mwgbnzid-439",
-                           "title":  "Сбой!",
-                           "body":  "Сетевой город решил сделать прикол и перевел свой сайт на российские сертификаты, в ближайшее время выйдет обновление с фиксом данной проблемы",
-                           "publishedAt":  "2026-11-14",
-                           "notify":  true
-                       }
-                   ],
-    "appeals":  {
-                    "enabled":  true,
-                    "email":  "pd6030499@gmail.com",
-                    "telegram":  "",
-                    "note":  ""
-                },
-    "registry":  {
-                     "url":  "https://spo-registry.pd6030499.workers.dev"
-                 },
-    "relay":  {
-                  "url":  "https://spo-relay.pd6030499.workers.dev/relay",
-                  "token":  "UXNn4Q8shFadKREAu493PWKt"
-              }
+  "schema": 1,
+  "updatedAt": "2026-11-15",
+  "posts": [
+    {
+      "id": "post-mvmtkrdc-511",
+      "title": "v1.17",
+      "body": "Last version of app",
+      "date": "2026-10-24",
+      "pinned": true,
+      "author": ""
+    }
+  ],
+  "notices": [
+    {
+      "id": "notice-mvmrz5ik-431",
+      "title": "Внимание",
+      "text": "Расписание берется из журнала, а не из официального расписания ккэпа, не советуем на него👇 опираться!",
+      "level": "warning",
+      "sections": [
+        "timetable"
+      ],
+      "enabled": true,
+      "until": ""
+    }
+  ],
+  "appeals": {
+    "enabled": true,
+    "email": "pd6030499@gmail.com",
+    "telegram": "",
+    "note": ""
+  },
+  "registry": {
+    "url": "https://spo-registry.pd6030499.workers.dev"
+  }
 }

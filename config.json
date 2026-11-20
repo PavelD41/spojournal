@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-11-15",
+  "updatedAt": "2026-11-20",
   "posts": [
     {
       "id": "post-mvmtkrdc-511",
@@ -30,6 +30,16 @@
       ],
       "enabled": true,
       "until": ""
+    }
+  ],
+  "bans": [
+    {
+      "userId": "SPO-78A07355B4",
+      "name": "Романенко Полина Геннадьевна",
+      "group": "149-Д9-1РЭС",
+      "reason": "",
+      "since": "2026-11-20",
+      "key": "ban-1795158933048"
     }
   ],
   "appeals": {

@@ -30,17 +30,6 @@
       ],
       "enabled": true,
       "until": ""
-    },
-    {
-      "id": "notice-mwong1fh-174",
-      "title": "ЖОПА",
-      "text": "1",
-      "level": "critical",
-      "sections": [
-        "day"
-      ],
-      "enabled": true,
-      "until": ""
     }
   ],
   "appeals": {

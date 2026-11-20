@@ -32,16 +32,6 @@
       "until": ""
     }
   ],
-  "bans": [
-    {
-      "userId": "SPO-78A07355B4",
-      "name": "Романенко Полина Геннадьевна",
-      "group": "149-Д9-1РЭС",
-      "reason": "нет",
-      "since": "2026-11-20",
-      "key": "ban-1795159323201"
-    }
-  ],
   "appeals": {
     "enabled": true,
     "email": "pd6030499@gmail.com",

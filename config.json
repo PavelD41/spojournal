@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-11-23",
+  "updatedAt": "2026-11-25",
   "posts": [
     {
       "id": "post-mvmtkrdc-511",
@@ -30,6 +30,16 @@
       ],
       "enabled": true,
       "until": ""
+    }
+  ],
+  "bans": [
+    {
+      "userId": "SPO-47AA9793E5",
+      "name": "Бураков Демид Владиславович",
+      "group": "149-Д9-1РЭС",
+      "reason": "Нарушение правил использования",
+      "since": "2026-11-25",
+      "key": "ban-1795607191494"
     }
   ],
   "appeals": {
